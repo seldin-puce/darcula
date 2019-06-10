@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme name="Intellij Dracula" modified="2019-06-10 12:39:42" author="SeldinTW">
+<colorTheme id="57896" name="Intellij Dracula" modified="2019-06-10 12:39:42" author="SeldinTW">
     <searchResultIndication color="#424445" />
     <filteredSearchResultIndication color="#000000" />
     <occurrenceIndication color="#424445" />
