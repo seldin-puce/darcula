@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="57896" name="Darcula Pro" modified="2019-06-11 18:02:47" author="Seldin Puce" website="https://github.com/SeldinTW/darcula">
+    <searchResultIndication color="#424445" />
+    <filteredSearchResultIndication color="#000000" />
+    <occurrenceIndication color="#424445" />
+    <writeOccurrenceIndication color="#424445" />
+    <findScope color="#424445" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#424445" />
+    <singleLineComment color="#808080" italic="false" />
+    <multiLineComment color="#808080" italic="false" />
+    <commentTaskTag color="#808080" italic="false" />
+    <javadoc color="#629755" italic="false" />
+    <javadocLink color="#84B977" italic="false" />
+    <javadocTag color="#84B977" bold="false" italic="false" />
+    <javadocKeyword color="#84B977" italic="false" />
+    <class color="#FFFFFF" bold="false" underline="false" strikethrough="false" />
+    <interface color="#FFFFFF" />
+    <method color="#C3CED5" bold="false" />
+    <methodDeclaration color="#C3CED5" />
+    <bracket color="#D8D8D8" />
+    <number color="#7EA4CD" />
+    <string color="#648357" />
+    <operator color="#D8D8D8" bold="false" underline="false" strikethrough="false" />
+    <keyword color="#CC7832" bold="false" />
+    <annotation color="#BBB529" />
+    <staticMethod color="#BED6FF" />
+    <localVariable color="#C3CED5" />
+    <localVariableDeclaration color="#C3CED5" />
+    <field color="#C3CED5" />
+    <staticField color="#9876A9" />
+    <staticFinalField color="#9876A9" />
+    <deprecatedMember color="#C3CED5" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#C3CED5" />
+    <abstractMethod color="#C3CED5" />
+    <parameterVariable color="#C3CED5" />
+    <typeArgument color="#C3CED5" />
+    <typeParameter color="#C3CED5" />
+    <constant color="#9876A9" />
+    <background color="#2B2B2B" />
+    <currentLine color="#323232" />
+    <foreground color="#FFFFFF" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#214283" />
+    <selectionForeground color="#D0D0D0" />
+</colorTheme>
