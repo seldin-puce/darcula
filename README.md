@@ -1,5 +1,5 @@
 # darcula
-IntelliJ Darcula like theme for Eclipse IDE
+ Darcula theme for Eclipse IDE
 
 
 
