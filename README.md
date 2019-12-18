@@ -3,7 +3,7 @@
 
 
 
-Install theme plugin, import XML file into your Eclipse IDE, and enjoy :)
+Import *.epf file as preference in Eclipse and enjoy :)
 
 
 
