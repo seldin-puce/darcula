@@ -3,7 +3,7 @@
 
 
 
-Import *.epf file as preference in Eclipse and enjoy :)
+Import *.epf file as a preference in Eclipse and enjoy :)
 
 
 
